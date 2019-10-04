@@ -7,7 +7,7 @@ bonjour
 <FONT color= "green">
   hello
   </FONT>
-< IMG src="IMG-11">
+<img src="IMG-11">
   </IMG>
   <A href="https://lyc-dumas-ales.ac-montpellier.fr/">lien vers le site du lycée</A>
 </BODY>
