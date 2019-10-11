@@ -4,7 +4,7 @@
 body{background-color:red}</STYLE>
   </HEAD>
 </BODY>
-<FONT color= "red">
+<FONT color= "blue">
 bonjour
 </FONT>
 <FONT color= "green">
