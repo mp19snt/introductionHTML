@@ -1,5 +1,8 @@
 # introductionHTML<HTML>
 <HEAD>
+  <STYLE type="text/css">
+body{background-color:red}</STYLE>
+  </HEAD>
 </BODY>
 <FONT color= "red">
 bonjour
